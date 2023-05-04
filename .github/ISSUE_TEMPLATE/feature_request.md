@@ -1,27 +1,18 @@
 ---
-name: Feature request
-about: Suggest an idea for this project
-title: Add a clear and fitting title for the feature request
+name: jetwoobuilder wishlist endpoint
+about: Add jetwoobuilder wishlist endpoint
+title: Add jetwoobuilder wishlist endpoint
 labels: ''
 assignees: ''
 
 ---
 
-**Before adding a new feature request, please, make sure you’ve checked:**
+Hi there,
+1st of all tks for you great plugin suite.
+it will be great if in jetwoobuilder should be also the wishlist endpoint.
+this feature will get a better UX as the customer will check products added in its user account 
+it will avoid to set up the specific query in query builder + public user meta stores , and use the same wishlist widget as per the wishlist page.
 
-
-- if the feature is already added to the backlog or in work;
-- if the feature is missing from the products.
-
-**Please, describe the feature request, making it clear to understand.**
-
-Specify the feature, the product to which it should be added, and why it is important to add it. 
-Describe what effect or functionality you want to achieve as a result.
-
-**Add an example of where this feature is already implemented. **
-
-Provide a detailed explanation of where this feature should be used, and if there are any alternatives already. 
-
-Feel free to add any videos, links, screenshots to illustrate the requested feature.
-
-Please, note, that the feature requests can be accepted and processed only if they’re written in English.
+hope this will make sens
+many tks in advance for your help and integration.
+Dario
